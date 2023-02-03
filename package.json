@@ -1,0 +1,20 @@
+{
+  "name": "windows_ai_assistant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js --trace-warnings",
+	"dev": "nodemon index.js --trace-warnings"
+  },
+  "dependencies": {
+    "@humanwhocodes/module-importer": "^1.0.1",
+    "artyom.js": "^1.0.6",
+    "chatgpt": "^4.1.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
