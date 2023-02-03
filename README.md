@@ -18,7 +18,6 @@ Example
 
 Here is an example of a query to the chat-gpt AI Windows Assistant:
 
-javascript
 
 ```javascript
 http://127.0.0.1:5000/ask?question=play jazz music made by Miles Davis
@@ -26,7 +25,6 @@ http://127.0.0.1:5000/ask?question=play jazz music made by Miles Davis
 
 The response would look like this:
 
-bash
 
 ```bash
 [
